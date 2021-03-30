@@ -1,0 +1,67 @@
+{
+  "FormatVersion": "0.20",
+  "Header": {
+    "DocVersion": "1.305",
+    "MinVersionToLoad": "1.305",
+    "MSAppStructureVersion": "2.0"
+  },
+  "Properties": {
+    "AppCreationSource": "AppFromData",
+    "AppDescription": "",
+    "AppPreviewFlagsKey": [
+      "delayloadscreens",
+      "blockmovingcontrol",
+      "projectionmapping",
+      "usedisplaynamemetadata",
+      "usenonblockingonstartrule",
+      "enhancedgroupcontrol",
+      "useguiddatatypes",
+      "useexperimentalcdsconnector",
+      "useenforcesavedatalimits",
+      "componentauthoring",
+      "reliableconcurrent",
+      "dataTableV2Control",
+      "nativecdsexperimental",
+      "useexperimentalsqlconnector",
+      "enablecdsfileandlargeimage",
+      "formuladataprefetch",
+      "enhanceddelegation",
+      "aibuilderserviceenrollment",
+      "enablesummerlandgeospatialfeatures"
+    ],
+    "Author": "",
+    "ContainsThirdPartyPcfControls": false,
+    "DefaultConnectedDataSourceMaxGetRowsCount": 500,
+    "DocumentAppType": "Phone",
+    "DocumentLayoutHeight": 1136,
+    "DocumentLayoutLockOrientation": true,
+    "DocumentLayoutMaintainAspectRatio": true,
+    "DocumentLayoutOrientation": "portrait",
+    "DocumentLayoutScaleToFit": true,
+    "DocumentLayoutWidth": 640,
+    "DocumentType": "App",
+    "EnableInstrumentation": false,
+    "ErrorCount": 0,
+    "FileID": "dd0058dc-c61e-4275-84c9-98a9c86fc38e",
+    "Id": "1b4c3c34-acfe-42cd-9288-4b5cbf792f2b",
+    "InstrumentationKey": "",
+    "Name": "ramp+sample+app.msapp",
+    "OriginatingVersion": "1.305"
+  },
+  "PublishInfo": {
+    "AppName": "ramp sample app",
+    "BackgroundColor": "rgba(0, 176, 240, 1)",
+    "IconColor": "RGBA(255,255,255,1)",
+    "IconName": "Edit",
+    "LogoFileName": "logo.jpg",
+    "PublishDataLocally": false,
+    "PublishResourcesLocally": false,
+    "PublishTarget": "player",
+    "UserLocale": "en-US"
+  },
+  "ScreenOrder": [
+    "BrowseScreen1",
+    "DetailScreen1",
+    "EditScreen1"
+  ]
+}
